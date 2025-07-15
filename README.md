@@ -1,6 +1,7 @@
 # Smart Home Project
 Smart Home Energy Management System Simulation and Weather Classification using ML Model
-Task 1 : Smart Home Energy Management System Simulation 
+
+##Task 1 : Smart Home Energy Management System Simulation 
 Below report outlines the development of a Smart Home Energy Management System using the 
 Wokwi.com simulator, integrating temperature, PIR motion, and ultrasonic distance sensors with 
 an Arduino Uno. We designed the system to monitor environmental conditions and occupancy, 
@@ -53,7 +54,7 @@ efficiency.
 2. LED indicators provided instant visual alerts for all sensor triggers. 
 3. The LCD effectively displayed multi-sensor data in real-time.
 
-Task 2 : Weather Classifier: Temperature & Humidity Analysis 
+##Task 2 : Weather Classifier: Temperature & Humidity Analysis 
 Link to code - 
 https://colab.research.google.com/drive/1stA1J1mV9Gkt7QgNFAs43tXLhg_uZHJp?usp=sharing 
 Overview 
